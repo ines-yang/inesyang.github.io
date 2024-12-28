@@ -46,6 +46,8 @@
 
 
 ### Time Series Analysis on Rising Global City Temperature 
+[Time Series Analysis Report (1).pdf](https://github.com/user-attachments/files/18267937/Time.Series.Analysis.Report.1.pdf)
+
 
 ## Additional Experience 
 **Undergraduate Tutor for Data 8 @ University of California, Berkeley (_January 2023 - May 2023_)**
