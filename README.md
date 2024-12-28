@@ -23,7 +23,7 @@
   
 ## Projects
 ### Predictive Policing Efficacy Research 
-Link: [https://github.com/ines-yang/predictive-policing/tree/main]
+[Github link](https://github.com/ines-yang/predictive-policing/tree/main)
 
 - Designed ETL pipeline using **Python** and **SQL** to process 6.5M rows for causal inference analysis with OLS regression
 - Ran multiple hypothesis testing to identify 1 significant feature, using chi-square and paired t-tests with B-H correction
