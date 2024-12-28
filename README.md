@@ -45,7 +45,7 @@
 **View the full report:** [Speech Recognition Paper.pdf](https://github.com/ines-yang/inesyang.github.io/blob/main/assets/INFO_159_Subfield_Survey.pdf)
 
 ### Time Series Analysis on Rising Global City Temperature 
-**View the full report:** [Time Series Analysis Report.pdf](https://github.com/ines-yang/inesyang.github.io/blob/main/assets/Time Series Analysis Report.pdf)
+**View the full report:** [Time Series Analysis Report.pdf](https://github.com/ines-yang/inesyang.github.io/blob/main/assets/Time%20Series%20Analysis%20Report.pdf)
 
 
 ## Additional Experience 
