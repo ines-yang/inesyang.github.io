@@ -40,6 +40,11 @@
 - Integrated NewsAPI into our SaaS application for real-time political updates, enhancing overall UX functionality by 15%
 - **Lessons Learned:** Gained complex understanding of how frontend, backend, and databases interact with each other
 
+## Academic Papers 
+### State of the Art Advancements in Speech Recognition 
+
+### Time Series Analysis on Rising Global City Temperature 
+
 ## Additional Experience 
 **Undergraduate Tutor for Data 8 @ University of California, Berkeley (_January 2023 - May 2023_)**
 - Designed and delivered a course to deepen students' understanding of A/B testing, query writing and linear regression
