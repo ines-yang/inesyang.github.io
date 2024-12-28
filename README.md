@@ -42,7 +42,7 @@
 
 ## Academic Papers 
 ### Subfield Survey on State of the Art Research in Speech Recognition
-[Speech Recognition Paper.pdf](https://github.com/user-attachments/files/18267924/Speech.Recognition.Paper.pdf)
+[Speech Recognition Paper.pdf][embed](https://github.com/user-attachments/files/18267924/Speech.Recognition.Paper.pdf)[/embed]
 
 
 ### Time Series Analysis on Rising Global City Temperature 
