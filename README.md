@@ -41,7 +41,9 @@
 - **Lessons Learned:** Gained complex understanding of how frontend, backend, and databases interact with each other
 
 ## Academic Papers 
-### State of the Art Advancements in Speech Recognition 
+### Subfield Survey on State of the Art Research in Speech Recognition
+[Speech Recognition Paper.pdf](https://github.com/user-attachments/files/18267924/Speech.Recognition.Paper.pdf)
+
 
 ### Time Series Analysis on Rising Global City Temperature 
 
