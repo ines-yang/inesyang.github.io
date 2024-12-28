@@ -29,15 +29,16 @@
 - Ran multiple hypothesis testing to identify 1 significant feature, using chi-square and paired t-tests with B-H correction
 - **Lessons Learned:** Built an ETL data pipeline for large datasets and applied data analysis to inform data-driven decisions
 
+### ChatGPT Prompt Engineering 
+- Improved LLM output performance (Babbage-002) by 30\% by using zero-shot, few shot, and chain-of-thought prompting
+- Built and enhanced 3 instruction-tuned models for customer-service and language translation using GPT 3.5 Turbo Instruct
+- **Lessons Learned:** Insight into how to write informative and guiding prompts for maximizing LLM performance
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+### USA Map for Political Representatives
+- Deployed interactive SaaS application connected to Active Record database on Heroku with sign-in authentication feature
+- Optimized RESTful routing using partial views, delivering a 15% improvement in page redirection efficiency
+- Integrated NewsAPI into our SaaS application for real-time political updates, enhancing overall UX functionality by 15%
+- **Lessons Learned:** Gained complex understanding of how frontend, backend, and databases interact with each other
 
 ## Additional Experience 
 **Undergraduate Tutor for Data 8 @ University of California, Berkeley (_January 2023 - May 2023_)**
