@@ -3,17 +3,24 @@
 #### Technical Skills: Python, SQL, AWS, Java, Ruby on Rails
 
 ## Education 			        		
-- B.S., Data Science | University of California, Berkeley (_August 2024_)
+- B.A., Data Science | University of California, Berkeley (_August 2024_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Experience 
+**Data Analyst @ Futures Without Violence (_August 2023 - December 2023)**
+- Created Streamlit dashboard with PostgreSQL database  to advocate for increasing employee benefits by 7% to stakeholders
+- Engineered an SQL-based cost calculator improving  accuracy by 19% while reducing query execution time by 40%
+- Enhanced UX by 20% with interactive Plotly visualizations, enabling real-time data updates based on user-defined settings
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist @ Green Info Network (_January 2023 - May 2023_)**
+- Designed and optimized ETL pipeline processing 100K+ city records using Google Colab, boosting model accuracy by 13%
+- Developed and presented a park location recommender system using a linear regression model with 85% accuracy
+- Delivered clear, extensive and thorough documentation in Jupyter Notebook, resulting in seamless code handoff to client
 
+**Data Consultant @ American Red Cross (_August 2022 - December 2022_)**
+- Engineered SQL queries to analyze 10k+ satisfaction surveys, revealing 5 critical risk factors found in 75% of responses
+- Presented our PowerBI-based insights and recommendations for increasing volunteer retention by 15% to the regional CEO
+- Developed 5 tailored upgrades & communicated 6 impactful data visualizations using PowerBI, Mat-plotlib, and Seaborn
+  
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
