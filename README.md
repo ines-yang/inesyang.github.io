@@ -43,8 +43,9 @@
 ## Academic Papers 
 ### Subfield Survey on State of the Art Research in Speech Recognition
 **View the full report:** [Speech Recognition Paper.pdf](https://github.com/ines-yang/inesyang.github.io/blob/main/assets/INFO_159_Subfield_Survey.pdf)
+
 ### Time Series Analysis on Rising Global City Temperature 
-[Time Series Analysis Report (1).pdf](https://github.com/user-attachments/files/18267937/Time.Series.Analysis.Report.1.pdf)
+**View the full report:** [Time Series Analysis Report.pdf](https://github.com/user-attachments/files/18267937/Time.Series.Analysis.Report.1.pdf)
 
 
 ## Additional Experience 
